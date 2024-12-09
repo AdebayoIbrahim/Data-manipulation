@@ -16,7 +16,8 @@ This project provides a comprehensive analysis of TB cases using a real-world da
 ---
 
 ## Overview
-![image](https://github.com/user-attachments/assets/1f8c0e35-48f2-4caf-a9e5-3abf0b06a3e2)
+![image](https://github.com/user-attachments/assets/4081dcd3-f775-46f3-9f35-53ac4f1de4ad)
+
 
 
 This repository contains:
